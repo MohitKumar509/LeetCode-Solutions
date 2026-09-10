@@ -25,10 +25,12 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
