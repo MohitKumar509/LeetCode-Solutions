@@ -5,7 +5,7 @@ class Solution {
 
         while(i<s.length() && j<t.length()){
             if(s.charAt(i)==t.charAt(j)){
-                
+                // i++ in both condition so thats why not write else condition 
                 j=j+1;
             }
             i=i+1;
