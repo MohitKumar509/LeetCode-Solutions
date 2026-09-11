@@ -12,6 +12,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -36,4 +38,12 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
