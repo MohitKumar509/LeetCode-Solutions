@@ -7,6 +7,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -35,6 +36,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
@@ -56,4 +58,17 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
