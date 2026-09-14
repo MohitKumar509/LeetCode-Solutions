@@ -29,6 +29,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
