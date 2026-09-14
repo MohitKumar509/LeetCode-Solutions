@@ -27,6 +27,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -71,4 +73,12 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
