@@ -1,40 +1,71 @@
 class Solution {
 
-    public int calcNextIdx(int[] nums, int curr) {
+    private int nextIndex(int[] nums, int index) {
         int n = nums.length;
 
-        return (curr + nums[curr] % n + n) % n;
+        return (index + nums[index] % n + n) % n;
     }
 
     public boolean circularArrayLoop(int[] nums) {
 
-        for (int i = 0; i < nums.length; i++) {
+        int n = nums.length;
 
-            Set<Integer> set = new HashSet<>();
+        for (int i = 0; i < n; i++) {
 
-            boolean isPos = nums[i] > 0;
-            int curr = i;
+            // Try to find a cycle starting from i
+            boolean isPositive = nums[i] > 0;
+
+            int slow = i;
+            int fast = i;
 
             while (true) {
 
-                int next = calcNextIdx(nums, curr);
-
-                // One element loop is not allowed
-                if (next == curr) {
-                    break;
-                }
+                // Move slow one step
+                int slowNext = nextIndex(nums, slow);
 
                 // Direction changed
-                if ((nums[next] > 0) != isPos) {
+                if ((nums[slowNext] > 0) != isPositive) {
                     break;
                 }
-                if (set.contains(next)) {
-                    return true;
+
+                // One-element cycle
+                if (slowNext == slow) {
+                    break;
                 }
 
-                set.add(curr);
+                // Move fast one step
+                int fastNext = nextIndex(nums, fast);
 
-                curr = next;
+                // Direction changed
+                if ((nums[fastNext] > 0) != isPositive) {
+                    break;
+                }
+
+                // One-element cycle
+                if (fastNext == fast) {
+                    break;
+                }
+
+                // Move fast second step
+                int fastNext2 = nextIndex(nums, fastNext);
+
+                // Direction changed
+                if ((nums[fastNext2] > 0) != isPositive) {
+                    break;
+                }
+
+                // One-element cycle
+                if (fastNext2 == fastNext) {
+                    break;
+                }
+
+                slow = slowNext;
+                fast = fastNext2;
+
+                // Cycle found
+                if (slow == fast) {
+                    return true;
+                }
             }
         }
 
