@@ -7,6 +7,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
@@ -35,6 +36,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
@@ -88,4 +90,8 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
