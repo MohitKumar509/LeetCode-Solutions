@@ -22,6 +22,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
@@ -61,6 +62,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -108,8 +111,25 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
