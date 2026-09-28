@@ -73,6 +73,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0007-reverse-integer/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
