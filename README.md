@@ -8,6 +8,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
+| [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
@@ -93,6 +94,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
