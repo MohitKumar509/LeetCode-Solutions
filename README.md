@@ -13,6 +13,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
@@ -29,6 +30,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0904-fruit-into-baskets/) | Medium |
@@ -58,6 +60,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -91,6 +94,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +119,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
