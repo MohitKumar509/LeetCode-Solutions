@@ -9,19 +9,30 @@ class Solution {
         return sum;
     }
     public boolean isHappy(int n) {
-        int slow=n;
-        int fast=n;
-        while(fast!=1){
-            slow=sumofDigits(slow);
-            fast=sumofDigits(sumofDigits(fast));
 
-            if(fast==1){
-                return true;
-            }
-            if(slow==fast){
+        Set<Integer> set=new HashSet<>();
+        while(n!=1){
+            if(set.contains(n)){
                 return false;
-            }
+            } 
+            set.add(n);
+            n=sumofDigits(n);
         }
         return true;
+
+        // int slow=n;
+        // int fast=n;
+        // while(fast!=1){
+        //     slow=sumofDigits(slow);
+        //     fast=sumofDigits(sumofDigits(fast));
+
+        //     if(fast==1){
+        //         return true;
+        //     }
+        //     if(slow==fast){
+        //         return false;
+        //     }
+        // }
+        // return true;
     }
 }
