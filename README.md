@@ -18,6 +18,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0904-fruit-into-baskets/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
@@ -129,6 +130,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0904-fruit-into-baskets/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
