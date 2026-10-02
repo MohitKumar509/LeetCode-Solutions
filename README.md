@@ -66,6 +66,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0876-middle-of-the-linked-list/) | Easy |
+| [0925-long-pressed-name](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0925-long-pressed-name/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## String
@@ -74,6 +75,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
+| [0925-long-pressed-name](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0925-long-pressed-name/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
