@@ -19,6 +19,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0904-fruit-into-baskets/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -42,6 +43,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0904-fruit-into-baskets/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Rolling Hash
