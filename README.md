@@ -13,6 +13,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
@@ -102,6 +103,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Bit Manipulation
@@ -159,4 +161,12 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
