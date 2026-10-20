@@ -9,6 +9,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
@@ -63,6 +64,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
@@ -101,6 +103,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
