@@ -16,6 +16,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0287-find-the-duplicate-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0414-third-maximum-number/) | Easy |
 | [0457-circular-array-loop](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0457-circular-array-loop/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0643-maximum-average-subarray-i/) | Easy |
@@ -134,6 +135,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0414-third-maximum-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
