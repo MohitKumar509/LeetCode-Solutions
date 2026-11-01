@@ -7,6 +7,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -30,6 +31,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
