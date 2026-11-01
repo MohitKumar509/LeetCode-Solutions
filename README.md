@@ -44,6 +44,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0560-subarray-sum-equals-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [0925-long-pressed-name](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0925-long-pressed-name/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -179,4 +181,8 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 <!---LeetCode Topics End-->
