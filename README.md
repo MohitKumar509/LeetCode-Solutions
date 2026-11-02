@@ -11,6 +11,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0219-contains-duplicate-ii/) | Easy |
@@ -36,6 +37,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
@@ -142,6 +144,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0414-third-maximum-number/) | Easy |
@@ -186,5 +189,14 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
