@@ -9,6 +9,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -184,6 +185,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0300-longest-increasing-subsequence/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
