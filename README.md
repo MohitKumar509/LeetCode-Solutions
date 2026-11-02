@@ -9,6 +9,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
@@ -71,6 +72,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | ------- | ------- |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0151-reverse-words-in-a-string/) | Medium |
@@ -144,6 +146,7 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0349-intersection-of-two-arrays/) | Easy |
@@ -199,4 +202,12 @@ My solutions to LeetCode Data Structures and Algorithms problems, primarily solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/MohitKumar509/LeetCode-Solutions/tree/main/Java/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
